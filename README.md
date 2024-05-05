@@ -1,7 +1,7 @@
 # e-Commerce-ORM
 
 # Description 
-Building the bakc end for an e-commerce site. Starter code has been prrovided. The goal is to configure a working Express.js API to use Sequelize to interact with a MySQL database.
+Building the backend for an e-commerce site. Starter code has been provided. The goal is to configure a working Express.js API to use Sequelize to interact with a MySQL database.
 
 # User Story 
 AS A manager at an internet retail company
@@ -38,7 +38,7 @@ node server.js
 Code was tested using Insomnia 
 
 # Features 
-Express.js Postgres Sequelize 
+Express.js Postgres Sequelize DB beaver Insomnia 
 
 # License 
 MIT 
